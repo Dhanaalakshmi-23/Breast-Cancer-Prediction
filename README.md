@@ -1,7 +1,9 @@
 # Breast Cancer Prediction Web Application
 
 A simple and efficient web-based application that predicts the likelihood of breast cancer based on medical input data. This tool leverages machine learning to assist healthcare professionals and researchers in preliminary diagnostics.
-![Landing Page](images/img1.png)
+<p align="center">
+  <img src="images\img1.png" alt="Screenshot of the Breast Cancer Prediction App" width="600"/>
+</p>
 
 ---
 
