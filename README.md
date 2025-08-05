@@ -36,6 +36,4 @@ Backend built for performance and scalability using Flask.
 | **HTML**       | Structuring web content          |
 | **Custom CSS** | Styling and layout customization |
 
----
-git clone https://github.com/your-username/breast-cancer-prediction-app.git
-cd breast-cancer-prediction-app
+
