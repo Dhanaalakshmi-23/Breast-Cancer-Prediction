@@ -15,7 +15,9 @@ User-friendly interface for quick and easy interaction.
 Backend built for performance and scalability using Flask.
 
 ---
-![Prediction](images/img2.png)
+<p align="center">
+  <img src="images\img2.png" alt="Screenshot of the Breast Cancer Prediction App" width="600"/>
+</p>
 
 ## Tech Stack
 
